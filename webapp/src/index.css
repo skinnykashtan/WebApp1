@@ -1,0 +1,38 @@
+.login-container {
+  display: flex;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-container-login-form input {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.register-container {
+  display: flex;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+}
+
+.register-container-form input {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home button {
+  margin-top: 10px;
+}
+
+
